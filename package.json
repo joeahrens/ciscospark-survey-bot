@@ -35,7 +35,7 @@
     "babel-plugin-transform-object-rest-spread": "^6.23.0",
     "babel-polyfill": "^6.20.0",
     "babel-preset-env": "^1.1.8",
-    "botkit": "^0.5.5",
+    "botkit": "^0.6.11",
     "botkit-storage-redis": "^1.1.0",
     "bower": "^1.8.0",
     "caminte": "^0.4.0",
